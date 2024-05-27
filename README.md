@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Methmi Rathnayaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Data structures and algorithms, programming construction**
+- 🌱 I’m currently learning **Computer Sceince and engineering**
 
 - 💬 Ask me about **Java**
 
