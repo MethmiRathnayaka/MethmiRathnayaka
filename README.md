@@ -4,13 +4,13 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **methmipamodi02@gmail.com**
+- 📫 How to reach me **methmi.22@cse.mrt.ac.lk**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/methmi rathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="methmi rathnayake" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1CeeVWgoRf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="methmi rathnayake" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__methmi_?igsh=Y2V2YXJ0ZjMwdGJ4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="methmi_rathnayaka_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@220520p_cse22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@220520p_cse22" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/220520P_CSE22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@220520p_cse22" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
